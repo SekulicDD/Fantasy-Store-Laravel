@@ -1,0 +1,39 @@
+@extends('admin.layouts.layout')
+
+@section('title') Admin Panel - Orders @endsection
+
+@section('content')
+    <div class="main">
+        <!-- MAIN CONTENT -->
+        <div class="main-content">
+            <div class="container-fluid">
+                <h3 class="page-title">Orders</h3>
+
+                <div class="panel">
+                    <div class="panel-body" id="products">
+
+
+                    </div>
+                </div>
+
+                <div id="modalEdit" style="display: none">
+
+                </div>
+                <br>
+                <div style="display: none" class="alert-danger text-danger col-6" id="errors"></div>
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+@endsection
+
+@section("scripts")
+
+    <script src="{{asset("assets/vendor/toastr/toastr.min.js")}}"></script>
+
+@endsection

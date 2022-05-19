@@ -1,6 +1,6 @@
 # Fantasy Store
 > An online e-commerce web store built using Laravel and JS.  
-> ![Fantasy store banner](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+> ![Fantasy store banner](public/assets/img/fantasyStore.jpg)
 
 ## Table of Contents
 - [Fantasy Store](#fantasy-store)

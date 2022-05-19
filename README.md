@@ -1,5 +1,6 @@
 # Fantasy Store
 > An online e-commerce web store built using Laravel and JS.  
+> 
 > ![Fantasy store banner](public/assets/img/fantasyStore.jpg)
 
 ## Table of Contents

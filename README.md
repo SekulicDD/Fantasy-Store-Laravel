@@ -21,7 +21,7 @@
 - Bootstrap
 
 ## Features
-This website has all the required functions as an eCommerce web store. Here are the available features.
+This website has all the required functions as an e-commerce web store. Here are the available features.
 - Pages - Home, Products, Contact.
 - Membership - Admin, guest user and authorized user.
 - User Authentication - Register, login for website and admin panel.
